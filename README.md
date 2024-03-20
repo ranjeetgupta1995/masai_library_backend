@@ -2,7 +2,7 @@
 
 http://localhost:4000
 * This endpoint is home page of masai library.
-<img width="300" height="230" alt="homePage" src="/image/homepage.png">
+<img width="500" height="150" alt="homePage" src="/image/homepage.png">
 
 http://localhost:4000/register 
 * This endpoint will allow customers to register. Hash the password on store.
@@ -26,3 +26,4 @@ http://localhost:4000/books/delete/:id
 * This endpoint will allow admin to delete a specific book identified by its ID. 
 
 ## 🌐 Deployed Link : 
+https://tiny-jade-mackerel-coat.cyclic.app/
